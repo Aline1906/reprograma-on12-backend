@@ -1,0 +1,14 @@
+Um copo esta sujo
+Leve-o para pia
+Abra a torneira
+Molhe o copo
+Desligue a torneira
+Pega a esponja
+Passe o detergente na esponja
+Passe a esponja no copo do lado de fora
+Passe a esponja no copo do lado de dentro
+Abra a torneira 
+Enxague o copo
+Desligue a torneira
+Se copo estiver limpo, guarde-o
+Se não, repita do passo 3
