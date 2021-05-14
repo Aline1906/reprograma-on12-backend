@@ -1,0 +1,13 @@
+Posicione-se na frente do caixa eletrônico
+Peque o cartão do banco
+Toque na tela do caixa eletrônico
+Inicie a operação
+Insira o cartão no local indicado
+Siga as instruções da tela
+Digite o valor solicitado
+Digite a senha para liberação
+Coloque a digital para confirmar
+Retire o dinheiro no local indicado
+Retire o comprovante de saque
+Se não tiver mais operações, cancelar
+Se não, fazer outra solicitação
