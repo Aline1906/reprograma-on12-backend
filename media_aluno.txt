@@ -1,0 +1,12 @@
+Pegue a pasta do aluno
+Abra-a
+Verifique a nota da 1° prova
+Verifique a nota da 2° prova
+Some as duas notas 
+Dívida e resultado por 2
+Se o resultado for maior ou igual que 7
+Aluno será aprovado
+Se resultado entre 6,9 e 5
+Aluno em recuperação
+Se resultado menor que 4,9 
+Aluno reprovado
