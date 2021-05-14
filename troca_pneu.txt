@@ -1,0 +1,29 @@
+abra a mala
+saia do carro
+puxe o capo da mala
+localize o triangulo
+pegue o triangulo
+coloque-o na via 
+identifique o pneu furado
+localize o step
+localize o macaco
+localize a chave de roda
+pegue a chave de roda
+afrouxe os parafusos
+posicione o macaco no chão
+levante o veiculo com o macaco
+solte os parafusos
+retire o pneu furado
+pegue o step
+encaixe o step
+pegue os parafusos
+coloque-os no step
+aperte-os.
+acione o macaco
+desca o carro
+guarde as ferramentas
+guarde o pneu furado
+guarde o triangulo
+feche a mala
+entre no carro
+siga viagem
