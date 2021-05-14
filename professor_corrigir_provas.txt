@@ -1,0 +1,18 @@
+Professor puxa a cadeira de sua mesa
+senta
+se acomoda
+Abre a gaveta
+Pega uma caneta
+fecha a gaveta
+Pega uma prova da pilha de provas respondidas
+Lê as informações do aluno
+Corrige a questão 1
+Corrige a questão 2
+Corrige a questão 3
+Corrige a questão 4
+Corrige a questão 5
+Coloca a nota na prova
+Coloca a prova em uma nova pilha
+Pega uma nova prova
+Refaz o procedimento a partir do 4 passo
+Termina a pilha de provas pra corrigir.
