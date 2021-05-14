@@ -1,0 +1,5 @@
+Pegue Um número x
+Mais Um número y
+Mais Um número z
+Some os 3 números
+Divulgue o resultado
