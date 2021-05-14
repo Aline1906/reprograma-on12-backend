@@ -1,0 +1,4 @@
+Pegue um número N 
+Divida-o por 2
+Se o resultado for 0 é par
+Se não, é impar
