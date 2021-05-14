@@ -1,0 +1,15 @@
+clique no programa excel
+abra um arquivo
+salve o arquivo
+Faça uma planilha
+abra uma coluna 
+Coloque o nome dos funcionários
+abra outra coluna
+Coloque o valor salarial de cada funcionário
+Identifique os funcionários que recebem  R$ 500,00
+abra outra coluna 
+Adicione um aumento de 20% para esses funcionários
+Para os demais funcionários
+Adicione um aumento de 10%
+Salve as informações
+Nomeie a planilha como: Aumento salarial dos funcionários
